@@ -9,6 +9,7 @@
 </p>
 
 <h3>Family Domain Zone</h3>
-<h1>Traefik Proxy</h1>
+<h1>Traefik Proxy & Load Balancer</h1>
 
 </div>
+
